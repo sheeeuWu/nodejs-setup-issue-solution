@@ -1,9 +1,9 @@
-# ⭐Issue I face after installing latest LTS Nodejs Version⭐
+# ⭐Issue I faced after installing the latest LTS Node.js Version ⭐
 
 ---
 
-Run all the commands shown in the attached image in window powershell (not in command promt)
+Run all the commands shown in the attached image in Windows PowerShell (not in Command Prompt).
 
 ---
 
-stack overflow link : 
+Stack Overflow link:
